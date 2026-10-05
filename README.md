@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07030D,35:160721,70:581C87,100:A855F7&text=☾%20Jhuly%20Vitória%20✦&fontColor=F5E9FF&fontSize=43&fontAlignY=36&desc=front-end%20•%20interfaces%20•%20web%20•%20coffee&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=✦+Front-end+Developer;☾+HTML+•+CSS+•+JavaScript;☕+code+•+coffee+•+purple+interfaces;✧+criando+coisas+bonitas+para+a+web" alt="Typing animation"/>
 
 <br><br>
 
