@@ -42,13 +42,6 @@ Tenho mais interesse em desenvolvimento front-end, organização visual e constr
 Atualmente estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript e banco de dados**.
 
 <br>
-
-Sou estudante de tecnologia e desenvolvedora **Front-end em formação**.
-
-Gosto principalmente da parte em que **código e visual se encontram**: construir páginas, organizar interfaces e transformar uma ideia em algo que realmente exista na tela.
-
-Tenho preferência por projetos com identidade visual forte, detalhes bem pensados e interfaces que não pareçam ter saído da mesma fábrica de templates que o resto da internet.
-
 ---
 
 ## ✦ meu grimório tecnológico
