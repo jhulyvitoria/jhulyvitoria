@@ -1,196 +1,218 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:09000F,40:1A0B2E,75:4B176D,100:8B5CF6&text=Jhuly%20Vitória&fontColor=F4EFFF&fontSize=42&fontAlignY=36&desc=Front-end%20Developer%20✦&descAlignY=58&descSize=17&animation=fadeIn"/>
+# ☾ Jhuly Vitória ✦
+
+### Front-end • interfaces • web • visual
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Front-end+Developer;%E2%98%BE+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;%E2%98%95+code%2C+coffee+%26+purple+interfaces;%E2%9C%A7+criando+coisas+bonitas+para+a+web" alt="Typing animation"/>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=B982FF&center=true&vCenter=true&width=650&lines=Front-end+Developer+✦;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Interfaces+%E2%80%A2+Web+%E2%80%A2+Visual;Criando+com+código+e+identidade"
-    alt="Typing SVG"
-  />
-</a>
+![Front-end](https://img.shields.io/badge/FRONT--END-12091D?style=for-the-badge&logo=codepen&logoColor=C084FC)
+![Web](https://img.shields.io/badge/WEB-12091D?style=for-the-badge&logo=googlechrome&logoColor=A855F7)
+![Coffee](https://img.shields.io/badge/COFFEE-12091D?style=for-the-badge&logo=buymeacoffee&logoColor=D8B4FE)
+![Purple](https://img.shields.io/badge/PURPLE%20MODE-12091D?style=for-the-badge&logo=starship&logoColor=C084FC)
+
+<br>
+
+`☾ code under moonlight • interfaces in purple • coffee somewhere nearby ☕`
 
 </div>
 
 ---
 
-## ☾ Sobre mim
+## ☾ sobre mim
 
-```javascript
+```js
 const jhuly = {
   nome: "Jhuly Vitória",
-  area: "Front-end",
-  foco: [
+  área: "Front-end",
+
+  interesses: [
     "desenvolvimento web",
     "interfaces",
     "identidade visual"
   ],
-  tecnologias: [
+
+  estudando: [
     "HTML",
     "CSS",
     "JavaScript",
     "SQL",
     "PostgreSQL"
   ],
+
   ferramentas: [
     "Git",
     "GitHub",
     "VS Code"
-  ]
+  ],
+
+  ambienteIdeal: "código + roxo + café ☕"
 };
 ```
 
 Sou estudante de tecnologia e desenvolvedora **Front-end em formação**.
 
-Gosto de criar interfaces com identidade visual e explorar a parte criativa do desenvolvimento web.
+Gosto principalmente da parte em que **código e visual se encontram**: construir páginas, organizar interfaces e transformar uma ideia em algo que realmente exista na tela.
 
-Atualmente estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript e banco de dados**.
+Tenho preferência por projetos com identidade visual forte, detalhes bem pensados e interfaces que não pareçam ter saído da mesma fábrica de templates que o resto da internet.
 
 ---
 
-## ✦ Tecnologias
+## ✦ meu grimório tecnológico
 
 <div align="center">
 
-### ◈ Front-end
+### ☾ Front-end
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
+<br><br>
+
+![HTML5](https://img.shields.io/badge/HTML5-170B24?style=for-the-badge&logo=html5&logoColor=C084FC)
+![CSS3](https://img.shields.io/badge/CSS3-170B24?style=for-the-badge&logo=css3&logoColor=C084FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-170B24?style=for-the-badge&logo=javascript&logoColor=D8B4FE)
+
 <br>
 
-### ◈ Banco de dados
+### ✧ Banco de dados
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+
+<br><br>
+
+![SQL](https://img.shields.io/badge/SQL-170B24?style=for-the-badge&logo=postgresql&logoColor=C084FC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-170B24?style=for-the-badge&logo=postgresql&logoColor=D8B4FE)
 
 <br>
 
 ### ◈ Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-100719?style=for-the-badge&logo=html5&logoColor=B982FF"/>
-<img src="https://img.shields.io/badge/CSS3-100719?style=for-the-badge&logo=css3&logoColor=B982FF"/>
-<img src="https://img.shields.io/badge/JavaScript-100719?style=for-the-badge&logo=javascript&logoColor=B982FF"/>
-<img src="https://img.shields.io/badge/SQL-100719?style=for-the-badge&logo=postgresql&logoColor=B982FF"/>
-<img src="https://img.shields.io/badge/PostgreSQL-100719?style=for-the-badge&logo=postgresql&logoColor=B982FF"/>
-<img src="https://img.shields.io/badge/Git-100719?style=for-the-badge&logo=git&logoColor=B982FF"/>
+![VS Code](https://img.shields.io/badge/VS%20Code-170B24?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC)
+![Git](https://img.shields.io/badge/Git-170B24?style=for-the-badge&logo=git&logoColor=C084FC)
+![GitHub](https://img.shields.io/badge/GitHub-170B24?style=for-the-badge&logo=github&logoColor=D8B4FE)
 
 </div>
 
 ---
 
-## ♢ Projetos
+## ☕ current mood
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projetos-em%20construção-100719?style=for-the-badge&logo=github&logoColor=B982FF"/>
+```text
+╭──────────────────────────────────────────╮
+│                                          │
+│      ☾ escrevendo código...              │
+│      ✦ mexendo em CSS até ficar certo    │
+│      ☕ café estrategicamente próximo     │
+│      ◈ provavelmente escolhendo roxo     │
+│                                          │
+╰──────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## ✦ projetos
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/PROJETOS-EM%20CONSTRUÇÃO-1A0B28?style=for-the-badge&logo=github&logoColor=C084FC)
 
 <br><br>
 
-<sub>☾ novos projetos vão aparecer por aqui.</sub>
+`☾ experimentos visuais • páginas web • interfaces • ideias em andamento`
 
 </div>
 
+<!--
+QUANDO QUISER ADICIONAR PROJETOS:
+
+<a href="LINK_DO_REPOSITORIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO&bg_color=0D0613&title_color=C084FC&text_color=D8B4FE&icon_color=A855F7&hide_border=true"/>
+</a>
+-->
+
 ---
 
-## ✦ GitHub Stats
+## ☾ GitHub
+
+> ⚠️ Troque `SEU_USUARIO` pelo seu username real do GitHub nas URLs abaixo.
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0714&title_color=B982FF&text_color=DCCBEE&icon_color=8B5CF6&ring_color=B982FF"
-  alt="GitHub Stats"
-/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0613&title_color=C084FC&text_color=D8B4FE&icon_color=A855F7&ring_color=C084FC" alt="GitHub Stats"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0714&title_color=B982FF&text_color=DCCBEE"
-  alt="Top Languages"
-/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0613&title_color=C084FC&text_color=D8B4FE" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## ◈ Streak
+## ✧ streak
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D0714&stroke=2A1838&ring=B982FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=DCCBEE&currStreakLabel=B982FF&sideLabels=A98CC6&dates=795F95"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D0613&stroke=2E173D&ring=C084FC&fire=A855F7&currStreakNum=F5E9FF&sideNums=D8B4FE&currStreakLabel=C084FC&sideLabels=B794D4&dates=806095" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## ♢ Activity Graph
+## ◈ activity graph
 
 <div align="center">
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D0714&color=B982FF&line=8B5CF6&point=E9D5FF&area=true&area_color=4C1D95&hide_border=true"
-  alt="Activity Graph"
-/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D0613&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=581C87&hide_border=true&custom_title=☾%20activity%20under%20the%20moon" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## ♛ GitHub Trophies
+## ♛ trophies
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-  alt="GitHub Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## ☾ Snake Contribution
+## ☾ contribution spell
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake Contribution"
-/>
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution"/>
+
+<br>
+
+`✦ feeding the contribution snake one commit at a time`
 
 </div>
 
 ---
 
-## ✦ Redes
+## ✦ encontre-me por aí
 
 <div align="center">
 
 <a href="https://www.instagram.com/jhusvitoria/">
-  <img
-    src="https://img.shields.io/badge/@jhusvitoria-100719?style=for-the-badge&logo=instagram&logoColor=B982FF"
-    alt="Instagram"
-  />
+  <img src="https://img.shields.io/badge/Instagram-@jhusvitoria-160A22?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
 </a>
 
-<img
-  src="https://img.shields.io/badge/morcegaj-100719?style=for-the-badge&logo=discord&logoColor=B982FF"
-  alt="Discord"
-/>
+<img src="https://img.shields.io/badge/Discord-morcegaj-160A22?style=for-the-badge&logo=discord&logoColor=C084FC"/>
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=profile%20views&color=6D28D9&style=flat-square"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=profile%20views&color=7E22CE&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -198,29 +220,18 @@ Atualmente estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript e ba
 
 <div align="center">
 
-### ☾ ✦ ⟡
+### ☾ ⋆⁺₊✧ Jhuly Vitória ✧₊⁺⋆ ☕
 
-<sub>entre código, interfaces e algumas ideias em tons de roxo.</sub>
+`front-end • web • interfaces • purple things`
+
+<br>
+
+<sub>
+código, café e algumas escolhas questionavelmente específicas de tons de roxo.
+</sub>
 
 <br><br>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09000F,40:1A0B2E,75:4B176D,100:8B5CF6"
-/>
+✦ ☾ ✦ ☕ ✦ ☾ ✦
 
 </div>
-<!--
-**jhulyvitoria/jhulyvitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
