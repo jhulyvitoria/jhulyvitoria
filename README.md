@@ -39,7 +39,7 @@ Gosto de trabalhar a parte visual da web e criar interfaces com identidade próp
 
 Tenho mais interesse em desenvolvimento front-end, organização visual e construção de páginas que não pareçam só mais um template perdido no GitHub.
 
-Atualmente estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript e banco de dados**.
+Amante natural de **HTML, CSS, JavaScript e banco de dados**.
 
 <br>
 ---
